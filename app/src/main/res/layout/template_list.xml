@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/template_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:tag="@string/templates_list_tag"
+    app:layoutManager="LinearLayoutManager"
+    tools:context=".TemplatesActivity"
+    tools:listitem="@layout/template_item_content">
+
+</android.support.v7.widget.RecyclerView>

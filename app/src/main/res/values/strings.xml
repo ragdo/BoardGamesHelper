@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Board Games Helper</string>
+    <string name="roll_dice_button">Dice</string>
+    <string name="num_of_dices_test">Number of dices</string>
+    <string name="number_of_dices">1</string>
+    <string name="num_of_dice_sizes_text">Number of sizes</string>
+    <string name="number_of_sizes">6</string>
+    <string name="accel_number">0.0</string>
+    <string name="facebook_app_id">1990191637908379</string>
+    <string name="fb_login_protocol_scheme">fb1990191637908379</string>
+    <string name="search_events_button">Search Events</string>
+    <string name="title_event_list">Events</string>
+    <string name="title_event_detail">Event Detail</string>
+    <string name="templates_button">Templates</string>
+    <string name="title_activity_templates">TemplatesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="templates_create_button">Create Template</string>
+    <string name="templates_list_tag">Templates List Tag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_fields_label">Text fields</string>
+    <string name="integer_fields_label">Number fields</string>
+    <string name="boolean_fields_label">True/false fields</string>
+    <string name="new_text">New</string>
+    <string name="min_max_players">Nr of players</string>
+    <string name="my_templates_string">My templates</string>
+    <string name="search_templates_string">Search templates</string>
+    <string name="title_activity_search_templates">SearchTemplatesActivity</string>
+    <string name="name_string">Name</string>
+    <string name="filter_string">Filter</string>
+    <string name="sessions_string">Sessions</string>
+    <string name="my_sessions_string">My sessions</string>
+    <string name="title_activity_sessions">SessionsActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="session_list_tag">Session List Tag</string>
+    <string name="create_string">Create</string>
+    <string name="add_string">Add</string>
+    <string name="title_activity_single_session">SingleSessionActivity</string>
+    <string name="edit_string">Edit</string>
+    <string name="overview_string">Overview</string>
+    <string name="shared_string">Shared</string>
+    <string name="player_string">Player</string>
+</resources>

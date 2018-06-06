@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352397037652",
+    "firebase_url": "https://boardgameshelper.firebaseio.com",
+    "project_id": "boardgameshelper",
+    "storage_bucket": "boardgameshelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352397037652:android:604cf2bce878e07e",
+        "android_client_info": {
+          "package_name": "com.example.shaga.boardgameshelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352397037652-vs1mcrc435qh78rged0esdifg48ujotp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaga.boardgameshelper",
+            "certificate_hash": "6055ea4e6faf1e045d60ade70367292512b1fe56"
+          }
+        },
+        {
+          "client_id": "352397037652-fungcebj2gjjac3l26n2qe5c59atr8vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3DthpjZhS2ETcrenfPBFGcVXvC942-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352397037652-fungcebj2gjjac3l26n2qe5c59atr8vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
